@@ -17,7 +17,7 @@ This project contains two Python problems implemented using NumPy in Jupyter Not
 
 This problem generates a random 5x5 matrix of values from a normal distribution, then normalizes the matrix using the formula:
 
-\[ X_{\text{normalized}} = \frac{X - \text{mean}}{\text{std\_dev}} \]
+[ X_normalized = X - meanstd_dev ]
 
 ### Steps:
 
